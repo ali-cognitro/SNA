@@ -1,1 +1,1 @@
-# SNA
+# Social Network Analysis App
